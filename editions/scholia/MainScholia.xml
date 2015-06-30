@@ -18,10 +18,10 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="11">
+        <group n="19">
             <text n="msA">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:19.office4_1" type="scholion">
+                    <div n="office4_1" type="scholion">
                         <div type="lemma">
                             <p>εὐλὰς ἐγγείνωνται</p>
                         </div>
